@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atelier_2_Convertir_Temperature</string>
+    <string name="C">°C</string>
+    <string name="F">°F</string>
+    <string name="C_to_F">°C->°F</string>
+    <string name="F_to_C">°F->°C</string>
+</resources>

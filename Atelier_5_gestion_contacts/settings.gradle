@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Atelier_5_gestion_contacts'

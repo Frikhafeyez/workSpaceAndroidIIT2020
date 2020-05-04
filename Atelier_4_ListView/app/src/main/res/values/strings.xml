@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atelier_4_ListView</string>
+    <string name="pays">Pays</string>
+    <string name="btn_vider">Vider</string>
+    <string name="btn_ajouter">Ajouter</string>
+    <string name="list_pays">Liste des pays :</string>
+</resources>

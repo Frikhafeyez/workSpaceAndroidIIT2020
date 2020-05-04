@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Atelier_3_Spiner</string>
+    <string name="carre">Carré</string>
+    <string name="personnaliser">Personnaliser</string>
+    <string name="rayon">Rayon :</string>
+    <string name="rec">Rectangle</string>
+    <string name="cercle">Cercle</string>
+    <string name="largeur">Largeur : </string>
+    <string name="lang">Longeur : </string>
+    <string name="cote">Coté : </string>
+    <string name="btn_valider">Valider</string>
+    <string name="surface">Surface : </string>
+    <string name="perimetre">Perimetre : </string>
+    <string name="btn_cal1">Calculer</string>
+    <string-array name="tab_formes">
+        <item>Rectangle</item>
+        <item>Carré</item>
+        <item>Cercle</item>
+        <item>Personnaliser</item>
+    </string-array>
+</resources>

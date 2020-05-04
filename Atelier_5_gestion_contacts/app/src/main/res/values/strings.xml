@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Atelier_5_gestion_contacts</string>
+    <string name="btn_ajouter">Ajouter nouveau contact</string>
+    <string name="list_contacts"></string>
+</resources>

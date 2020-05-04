@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522157524443",
+    "firebase_url": "https://projetauthentification-86ea2.firebaseio.com",
+    "project_id": "projetauthentification-86ea2",
+    "storage_bucket": "projetauthentification-86ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522157524443:android:0e5097250afda01d0853fe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522157524443-cjd2fv1kn6lo89a3kkjh7os00eau6j30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6uswcTi9vYZYLOeuefhB6YG0jDNuUzpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522157524443-cjd2fv1kn6lo89a3kkjh7os00eau6j30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
